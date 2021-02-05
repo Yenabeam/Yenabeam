@@ -12,7 +12,7 @@ EDA, 크롤링, 머신러닝, 딥러닝 등 다양한 프로젝트를 진행하�
 </pre>
 
 <details>
-<summary>⏯️ Work Expeience </summary>
+⏯️ Work Expeience 
 <h3>🏃‍♀️ 과거에도 열정적으로 달렸습니다. </h3>
 <pre>
 - Fast campus data science school 15기 2020.09 ~ 
